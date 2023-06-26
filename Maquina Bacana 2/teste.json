@@ -1,0 +1,342 @@
+{
+    "item_showcase": [
+        {
+            "id": 1,
+            "name": "MOUSE LOGITECH G203",
+            "quantity": 53,
+            "image": "https://m.media-amazon.com/images/I/61X6883m7wL._AC_SX522_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "TECLADO MACHENIKE K500",
+            "quantity": 58,
+            "image": "https://cf.shopee.com.br/file/br-11134207-23010-7hed3r45kfmvcb"
+        },
+        {
+            "id": 3,
+            "name": "HEADSET GAMER RAZER KRAKEN",
+            "quantity": 35,
+            "image": "https://static.netshoes.com.br/produtos/headset-gamer-razer-kraken-v3-chroma-hypersense-surround-71-drivers-50mm-usb/06/DUP-0631-006/DUP-0631-006_zoom1.jpg?ts=1676564497"
+        },
+        {
+            "id": 4,
+            "name": "GABINETE GAMER",
+            "quantity": 84,
+            "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/002/007/282/products/hyperspace1-5ecc0d5780d1848de316457362848660-640-0.webp"
+        }
+    ],
+
+    "recomendations": [
+        {
+            "name": "Pc Gamer Computador Intel I7 3770 Ssd 480gb Memoria Ram 16gb - Deutel",
+            "review": 5,
+            "preco": "R$ 1.890,00",
+            "image": "https://a-static.mlcdn.com.br/800x560/pc-gamer-computador-intel-i7-3770-ssd-480gb-memoria-ram-16gb-deutel/deutel/15968202286/44f96c6865d736abf898dbbf4ab7e258.jpeg"
+        },
+        {
+            "name": "Inspiron 24 All in One",
+            "review": 4,
+            "preco": "R$ 4.799,00",
+            "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5410/media-gallery/gray/aio-desktop-inspiron-24-5410-gray-gallery-4-v2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=541&qlt=100,1&resMode=sharp2&size=541,402&chrss=full"
+        },
+        {
+            "name": "PC gamer montado",
+            "review": 4,
+            "preco": "R$ 2.146,86",
+            "image": "https://m.media-amazon.com/images/I/51sttm8CjTL._AC_SX679_.jpg"
+        },
+        {
+            "name": "PC Gamer Fácil Intel Core i5-10400F, RGB, NVIDIA GeForce GTX 1050TI, 16GB RAM, SSD 480GB, Linux, Preto - 18170",
+            "review": 5,
+            "preco": "R$ 3.999,99",
+            "image": "https://images.kabum.com.br/produtos/fotos/368160/pc-gamer-facil-intel-core-i5-10400f-rgb-nvidia-geforce-gtx-1050ti-16gb-ram-ssd-480gb-linux-preto-18170_1660068797_gg.jpg"
+        }
+    ],
+    
+    "pcs_separadas": [
+        {
+            "id": 1,
+            "name": "Msi Geforce RTX 4090 Gaming Trio 24GB GDDR6X",
+            "category": "Placa De Vídeo",
+            "preco": "R$9.999",
+            "image": "https://images.kabum.com.br/produtos/fotos/388013/placa-de-video-msi-nvidia-geforce-rtx-4090-gaming-trio-24-gb-gddr6x-dlss-ray-tracing-geforce-rtx-4090-24g-geforce-rtx-4090-gaming-trio-24g_1665586454_original.jpg"
+        },
+        {
+            "id": 2,
+            "name": "INTEL CORE I9-10900F, 10-CORE, 20-THREADS, 2.8GHZ",
+            "category": "Processador",
+            "preco": "R$3.500",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/b/x/bx8070110900f1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "PLACA MAE GIGABYTE B550M AORUS ELITE DDR4 SOCKET AM4 CHIPSET AMD B550",
+            "category": "Placa Mãe",
+            "preco": "R$1.529",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/b/5/b550m-aorus-elite3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "FONTE GIGABYTE 650W P650B BRONZE 80 PLUS, GP-P650B",
+            "category": "Fonte",
+            "preco": "R$499,99",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/g/p/gp-p650b_1.jpg"
+        },
+        {
+            "id": 5,
+            "name": "SSD GIGABYTE AORUS 2TB M.2 NVME, GP-ASM2NE6200TTTD",
+            "category": "Hard Disk",
+            "preco": "R$2.235,18",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/g/p/gp-asm2ne6200tttd3.jpg"
+        },
+        {
+            "id": 6,
+            "name": "MEMORIA GIGABYTE 8GB (1X8) DDR4 2666MHZ PRETO, GP-GR26C16S8K1HU408",
+            "category": "Memory",
+            "preco": "R$305,87",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/g/p/gp-gr26c16s8k1hu4083.jpg"
+        },
+        {
+            "id": 7,
+            "name": "GABINETE GAMER AIGO DARKFLASH DLM 21 PRETO LATERAL VIDRO",
+            "category": "Periféricos",
+            "preco": "R$727,16",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/a/i/aigo-darkflash-dlm-21-preto.jpg"
+        },
+        {
+            "id": 8,
+            "name": "WATER COOLER COOLER MASTER MASTERLIQUID ML360 ILLUSION, MLX-D36M-A18P2-R1",
+            "category": "Cooler",
+            "preco": "R$1.235,18",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/l/mlx-d36m-a18p2-r17.jpg"
+        }
+    ],
+
+    "pcs_montados":[
+        {
+            "id": 1,
+            "name": "COMPUTADOR PICHAU GAMER, AMD RYZEN 5 5600G, GEFORCE RTX 3060 8GB, 16GB DDR4, SSD 240GB",
+            "category": "Pc Montado",
+            "preco": "R$5.099,99",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/p/o/pouter-3-pichau-amd-rtx-001_6_15_1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "COMPUTADOR MANCER GAMER NÉFTIS, INTEL I7-12700K, GEFORCE RTX 3070 8GB, 16GB DDR4, SSD M.2 480GB",
+            "category": "Pc Montado",
+            "preco": "R$9.399,99",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/p/o/pouter-3-rgb-water-cooler-01_7_2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "COMPUTADOR PICHAU GAMER HATHOR, INTEL I7-12700K, GEFORCE RTX 3060 TI 8GB, 16GB DDR4, SSD M.2 480GB",
+            "category": "Pc Montado",
+            "preco": "R$8.299,99",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/p/o/pouter-3-branco-011-med_3_1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "COMPUTADOR PICHAU GAMER MÁNI, INTEL I3-13100F, GEFORCE RTX 3060 TI 8GB, 16GB DDR4, SSD 480GB",
+            "category": "Pc Montado",
+            "preco": "R$5.559,89",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/a/p/apus-kit-intel-rtx-gtx-031_1_1_1.jpg"
+        },
+        {
+            "id": 5,
+            "name": "COMPUTADOR PICHAU GAMER COUGAR, AMD RYZEN 5 5600G, 16GB DDR4, SSD M.2 480GB",
+            "category": "Pc Montado",
+            "preco": "R$3.119,00",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/a/r/archon-white-rgb-gabinete-001_1.jpg"
+        },
+        {
+            "id": 6,
+            "name": "COMPUTADOR PICHAU GAMER COUGAR, AMD RYZEN 9 7950X, GEFORCE RTX 4090 24GB, 32GB DDR5, 2X SSD M.2 2TB",
+            "category": "Pc Montado",
+            "preco": "R$24.899,50",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/g/a/gabinete-gamer-cougar-cratus-001.jpg"
+        },
+        {
+            "id": 7,
+            "name": "COMPUTADOR PICHAU GAMER, AMD RYZEN 5 4600G, GEFORCE RTX 3060 8GB, 16GB DDR4, SSD 240GB",
+            "category": "Pc Montado",
+            "preco": "R$4.500,00",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/a/p/apus-amd-gtx-rtx-001_11.jpg"
+        },
+        {
+            "id": 8,
+            "name": "COMPUTADOR PICHAU GAMER AFRODITE, AMD RYZEN 5 5600, GEFORCE RTX 3060 8GB, 16GB DDR4, SSD M.2 480GB",
+            "category": "Pc Montado",
+            "preco": "R$2.299,99",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/h/e/hexer-amd-s-gpu-001.jpg"
+        }
+    ],
+
+    "pcs_trabalho":[
+        {
+            "id": 1,
+            "name": "Computador Completo Brazil PC Intel Core i7-2600, 8GB RAM DDR3, SSD 256GB, Teclado e Mouse + Monitor 19",
+            "category": "Pc Montado",
+            "preco": "R$1.944,79",
+            "image": "https://images.kabum.com.br/produtos/fotos/168403/computador-completo-brazil-intel-core-i7-2600-3-4ghz-8gb-ram-ddr3-ssd-240gb-teclado-e-mouse-monitor-19-preto_1661979091_gg.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Computador Completo Intel Core i3 8GB SSD 240GB Monitor 19 - F-NEW",
+            "category": "Pc Montado",
+            "preco": "R$1.350,00",
+            "image": "https://a-static.mlcdn.com.br/800x560/computador-completo-intel-core-i3-8gb-ssd-240gb-monitor-19-f-new/fonecarinformatica/9900203447/6c363d34b4f0f25d3fd8590e4b1017e8.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "COMPUTADOR PICHAU HOME, AMD RYZEN 3 3200G, 8GB DDR4, SSD 120GB + MONITOR 19",
+            "category": "Pc Montado",
+            "preco": "R$1.649,95",
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/h/a/hal_monitor_2.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Computador Completo Intel I5 8gb Ddr3 Hd 500gb",
+            "category": "Pc Montado",
+            "preco": "R$1.659,99",
+            "image": "https://carrefourbr.vtexassets.com/arquivos/ids/93056159-540-auto?v=638083961538100000&width=540&height=auto&aspect=true"
+        },
+        {
+            "id": 5,
+            "name": "Computador Completo Intel I5 8gb Ddr3 Hd 500gb",
+            "category": "Pc Montado",
+            "preco": "R$1.619,90",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSTTUc1g31XMX9zOdMIiubK3e9DinWT0O-DAzMHbd2wdAvEMaSAwx_xmtTTmx1-IJK9_H3TLPpcVEsczUsQW1qhIedpqnMIYnxUyjMoAkH5Cc7U5AobfHOT&usqp=CAE%20alt="
+        },
+        {
+            "id": 6,
+            "name": "Computador Brazil PC Digital Corp Completo, I5, 8GB, 500GB, Linux + Monitor 19",
+            "category": "Pc Montado",
+            "preco": "R$2.117,80",
+            "image": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/311081/Computador-Completo-I5-8GB-500GB-Monitor-19-Digital-Corp_1662748720_gg.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Computador Completo Intel Core I5 8gb Hd 500GB Monitor HDMI",
+            "category": "Pc Montado",
+            "preco": "R$1.522,99",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRIKQdu2aypY_cW6L8GRcp-bwnkB71VDzyA9jDQ6XuYQ4eNnuUyM8EWk1rj3fOqf3nT1gunEJazrV6tKxpHQrrNGTtkIxE597tzoR7hD0cT4agT98FqlEwV&usqp=CAE"
+        },
+        {
+            "id": 8,
+            "name": "Computador Completo Core I5 8gb Ssd 120gb Pc Intel Monitor 19",
+            "category": "Pc Montado",
+            "preco": "R$1.300,00",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTs7xnBH90VJlGsALftrfrSoccUWduCJiWbcL9MnOKsn_Qt-LOzdW7v6jvbOjyGEE3KnhFdUSjmgSEUtG3s3ZZLDV1A17gjxM-soUeCg0siXufZ5vZm0SYp&usqp=CAE"
+        }
+    ],
+
+    "last_release": [
+        {
+            "id": 1,
+            "review": 5,
+            "name": "PC GAMER TEMPEST",
+            "description": "A força está no ar! CONSTRUÍDA POR ESPECIALISTAS A experiência e dedicação aplicada na construção de cada computador garante nível máximo de estabilidade e performance de todos componentes de hardware.",
+            "preco": "R$ 12.790,00",
+            "image": "https://rocketz.com.br/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWXc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7bc1fc819ddd5249be1918e8bc48fec5a564f5ea/pc-gamer-tempest-6.jpg"
+        }
+    ],
+
+    "more_products": [
+        {
+            "id": 1,
+            "name": "MONITOR GAMER MSI OPTIX G321CQP, 31.5 POL, VA, CURVO, WQHD, 1MS, 165HZ, FREESYNC PREMIUM, HDMI/DP, OPTIX-G321CQP",
+            "category": "Peripherics",
+            "preco": "R$2.529,99",
+            "review": 5,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/o/p/optix-g321cqp.jpg"
+        },
+        {
+            "id": 2,
+            "name": "PROCESSADOR INTEL CORE I9-13900, 24-CORE, 32-THREADS, 2.0GHZ (5.6GHZ TURBO), CACHE 36MB, LGA1700, BX8071513900",
+            "category": "Processor",
+            "preco": "R$4.059,01",
+            "review": 5,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/b/x/bx8071513900.jpg"
+        },
+        {
+            "id": 3,
+            "name": "PLACA DE VIDEO GIGABYTE GEFORCE RTX 4090 GAMING OC, 24GB, GDDR6X, 384-BIT, GV-N4090GAMING OC-24GD",
+            "category": "Video Board",
+            "preco": "R$11.699,00",
+            "review": 5,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/g/v/gv-n4090gaming-oc-24gd4.jpg"
+        },
+        {
+            "id": 4,
+            "name": "PLACA MAE ASUS ROG CROSSHAIR X670E GENE, DDR5, SOCKET AM5, M-ATX, CHIPSET AMD X670, ROG-CROSSHAIR-X670E-GENE",
+            "category": "Mother Board",
+            "preco": "R$4.719,90",
+            "review": 5,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/z/7/z790-aorus-master3.jpg"
+        },
+        {
+            "id": 5,
+            "name": "HD WD RED, 16TB, 3.5, 7200RPM, SATA III 6GB/S, CACHE 512MB, WD161KFGX",
+            "category": "Hard Disk",
+            "preco": "R$5.599,91",
+            "review": 5,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/w/d/wd161kfgx_1.jpg"
+        },
+        {
+            "id": 6,
+            "name": "SSD SAMSUNG 970 EVO PLUS, 2TB, M.2 2280, PCIE NVME, LEITURA 3500 MB/S, GRAVACAO 3300 MB/S, MZ-V7S2T0B/AM",
+            "category": "SSD",
+            "preco": "R$1.499,90",
+            "review": 5,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/z/mz-v7s2t0bam2.jpg"
+        },
+        {
+            "id": 7,
+            "name": "MB520 SAKURA, MID-TOWER, LATERAL DE VIDRO, COM 3 FANS, BRANCO, MB520-WGNN-S02",
+            "category": "Computer Case",
+            "preco": "R$849,90",
+            "review": 4,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/b/mb520-wgnn-s029.jpg"
+        },
+        {
+            "id": 8,
+            "name": "FONTE CORSAIR VS SERIES VS500, 500W, 80 PLUS WHITE, PRETA, CP-9020223-WW",
+            "category": "Power Supply",
+            "preco": "R$435,90",
+            "review": 4,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/c/p/cp-9020223-ww9.jpg"
+        },
+        {
+            "id": 9,
+            "name": "WATER COOLER DEEPCOOL LE520, ARGB, 240MM, PRETO, R-LE520-BKAMMN-G-1",
+            "category": "Cooler",
+            "preco": "R$415,90",
+            "review": 4,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/r/-/r-le520-bkammn-g-1.jpg"
+        },
+        {
+            "id": 10,
+            "name": "PLACA DE SOM CREATIVE SOUND BLASTER AE-7 7.1 PCI-E COM MODULO DE CONTROLE",
+            "category": "Sound Board",
+            "preco": "R$1.999,90",
+            "review": 5,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/s/b/sb18004.jpg"
+        },
+        {
+            "id": 11,
+            "name": "GRAVADOR EXTERNO E LEITOR ASUS ZENDRIVE ULTRA-SLIM CD/DVD8X PRETO, SDRW-08U9M-U/BLK/G/AS",
+            "category": "Peripherics",
+            "preco": "R$152,52",
+            "review": 4,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/s/d/sdrw-08u9m-u.jpg"
+        },
+        {
+            "id": 12,
+            "name": "CABO SLEEVED DEEPCOOL 8 PINOS 30CM VERMELHO, DP-EC300-CPU8P-RD",
+            "category": "Cables",
+            "preco": "R$39,90",
+            "review": 3,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/d/p/dp-ec300-cpu8p-rd2.jpg"
+        }
+    ]
+}
