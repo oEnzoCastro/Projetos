@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(20, 20, 20);
+}
+
+.container-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+
+.login-box-container{
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.05);
+    width: 400px;
+    height: 500px;
+}
+
+.login-box{
+    display: flex;
+    align-items: center;
+}
+
+#sendtojson{
+    background-color: rgba(255, 255, 255, 0.175);
+    color: white;
+    padding: 5px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+#jsonbtn{
+    margin-left: 10px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    width: 30px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
