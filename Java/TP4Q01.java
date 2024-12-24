@@ -68,7 +68,7 @@ class Pokemon {
                 if (!item[counter].isEmpty()) {
                     String abilitie = item[counter].replaceAll("[\\[\\]'\"']", "").trim();
                     abilities.add(abilitie);
-                    counter++;
+                    counter
                 } else {
                     IsDouble = true;
                 }
@@ -78,17 +78,17 @@ class Pokemon {
 
         if (!item[counter].isEmpty())
             setWeight(Double.parseDouble(item[counter]));
-        counter++;
+        counter
 
         if (!item[counter].isEmpty())
             setHeight(Double.parseDouble(item[counter]));
-        counter++;
+        counter
 
         setCaptureRate(Integer.parseInt(item[counter]));
-        counter++;
+        counter
 
         setIsLegendary(item[counter].equals("1"));
-        counter++;
+        counter
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         setCaptureDate(LocalDate.parse(item[counter], formatter));
@@ -108,7 +108,7 @@ class Pokemon {
         for (String type : types) {
             if (counter == 1) {
                 pokemonIdChange += "'" + type + "'";
-                counter++;
+                counter
             } else {
                 pokemonIdChange += ", '" + type + "'";
             }
@@ -118,7 +118,7 @@ class Pokemon {
         for (String abilitie : abilities) {
             if (counter == 1) {
                 pokemonIdChange += "'" + abilitie + "'";
-                counter++;
+                counter
             } else {
                 pokemonIdChange += ", '" + abilitie + "'";
             }
@@ -308,9 +308,6 @@ class Arvore {
 public class TP4Q01 {
     public static void main(String[] args) {
 
-        long start = System.nanoTime();
-        int comparacoes = 0;
-
         ArrayList<Pokemon> pokemons = new ArrayList<Pokemon>();
 
         Scanner scan = new Scanner(System.in);
@@ -320,7 +317,7 @@ public class TP4Q01 {
         String scanPokemonId = scan.nextLine();
 
         while (!scanPokemonId.equals("FIM")) {
-            comparacoes++;
+            
             pokemonId.add(scanPokemonId);
             scanPokemonId = scan.nextLine();
         }
@@ -333,7 +330,7 @@ public class TP4Q01 {
 
             fileScanner.nextLine();
             while (fileScanner.hasNextLine()) {
-                comparacoes++;
+                
                 pokemons.add(new Pokemon(fileScanner.nextLine()));
             }
 
@@ -346,7 +343,7 @@ public class TP4Q01 {
         Arvore arvore = new Arvore();
 
         for (int i = 0; i < pokemonId.size(); i++) {
-            comparacoes += 4;
+             += 4;
             arvore.inserir(pokemons.get(Integer.parseInt(pokemonId.get(i)) - 1).getName());
             // System.out.println(pokemons.get(Integer.parseInt(pokemonId.get(i)) - 1));
         }
@@ -354,24 +351,11 @@ public class TP4Q01 {
         String pesquisa = scan.nextLine();
 
         while (!pesquisa.equals("FIM")) {
-            comparacoes += 4;
+             += 4;
             arvore.pesquisar(pesquisa);
 
             pesquisa = scan.nextLine();
 
         }
-
-        long end = System.nanoTime();
-        double executionTime = (end - start);
-
-        String content = "777391" + "\t" + executionTime + "\t" + comparacoes;
-
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("777391_arvoreBinaria.txt"))) {
-            writer.write(content);
-        } catch (IOException e) {
-            System.err.println("Erro ao escrever no arquivo: " + e.getMessage());
-        }
-
-        scan.close();
     }
 }
